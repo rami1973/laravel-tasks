@@ -5,7 +5,7 @@
         <div class="col-sm-offset-2 col-sm-8">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    New Task
+                    New Task Rami
                 </div>
 
                 <div class="panel-body">
@@ -40,7 +40,7 @@
             <!-- Current Tasks -->
             @if (count($tasks) > 0)
                 <div class="panel panel-default">
-                    <div class="panel-heading">
+                    <div class="panel-heading text-info">
                         Current Tasks
                     </div>
 
